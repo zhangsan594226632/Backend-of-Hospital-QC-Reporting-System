@@ -1,8 +1,5 @@
-# Backend-of-Hospital-QC-Reporting-System
-【文档+源码】基于springboot+vue医院质控上报系统 -学习项目资料分享-本项目是一套基于前后端分离架构的Web管理系统，后端采用SpringBoot框架，前端使用Vue3框架，数据库使用MySQL。系统采用目前主流的企业级开发技术栈，具备结构清晰、扩展性强、界面美观、操作简单等特点。系统主要实现用户管理、权限管理、数据管理、信息展示、业务操作等通用功能，能够满足各类Web管理系统的开发需求
-
-
-[video(video-gVRNYzFS-1781092965168)(type-csdn)(url-https://live.csdn.net/v/embed/530575)(image-https://i-blog.csdnimg.cn/direct/359b836695de4d5cbc6c7cbcac780255.png)(title-基于springboot+vue医院质控上报系统)]
+# 资料获取  点击  [**《基于springboot+vue医院质控上报系统》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+---
 
 # 1 项目概述
 
